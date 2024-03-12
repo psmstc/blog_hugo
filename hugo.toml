@@ -1,0 +1,4 @@
+baseURL = 'https://github.com/psmstc/blog_hugo'
+languageCode = 'ru-ru'
+title = 'My New Hugo Site'
+theme = 'paper'
